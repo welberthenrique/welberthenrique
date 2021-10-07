@@ -19,6 +19,7 @@
   <img align="center" alt="welbert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="welbert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="welbert-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="welbert-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="right" alt="welbert-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/842882345568436275/894999290563424296/zorao.gif?width=676&height=676">
 </div>
   
