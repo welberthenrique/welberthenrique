@@ -1,9 +1,8 @@
-### Olá! me chamo Welbert Henrique 👋
-#### Bem-vindos ao meu perfil
+### Fala Devs! me chamo Welbert Henrique 👋
+#### Sejam bem-vindos ao meu perfil do GH
 
-- 🔭 Hoje eu trabalho com sustentação e customização da ferramenta da Broadcom - Service Desk Mananger
 - 🌱 Estou estudando desenvolvimento Web, inicialmente com foco no Back-end
-- 📫 Contact-me através do email: welberthenrique@gmail.com
+- 📫 Contacte-me através do email: welberthenrique@gmail.com
 - 😄 Pronomes: ele/dele
 
 
